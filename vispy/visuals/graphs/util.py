@@ -7,7 +7,7 @@ Graph utilities
 
 A module containing several graph utility functions.
 """
-
+from __future__ import division
 import numpy as np
 
 try:
